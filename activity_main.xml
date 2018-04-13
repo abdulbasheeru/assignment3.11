@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="390dp"
+        android:layout_height="72dp"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        tools:text="Red" />
+
+    <TextView
+        android:layout_width="390dp"
+        android:layout_height="72dp"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        tools:background="@android:color/holo_orange_dark"
+        tools:text="Orange" />
+
+    <TextView
+        android:layout_width="390dp"
+        android:layout_height="72dp"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        tools:background="@color/colorPrimaryDark"
+        tools:text="Yellow" />
+
+    <TextView
+        android:layout_width="390dp"
+        android:layout_height="72dp"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        tools:background="@android:color/holo_green_light"
+        tools:text="Green" />
+
+    <TextView
+        android:layout_width="390dp"
+        android:layout_height="72dp"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        tools:background="@color/colorPrimary"
+        tools:text="Blue" />
+
+    <TextView
+        android:layout_width="390dp"
+        android:layout_height="72dp"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        tools:background="@color/colorAccent"
+        tools:text="Indigo" />
+
+    <TextView
+        android:layout_width="390dp"
+        android:layout_height="80dp"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        tools:background="@android:color/holo_purple"
+        tools:text="Violet" />
+
+
+
+</LinearLayout>
